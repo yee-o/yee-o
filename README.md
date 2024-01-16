@@ -14,7 +14,7 @@
   <img width="20" alt="github" src="https://em-content.zobj.net/source/google/387/snake_1f40d.png">
   <img width="20" alt="github" src="https://github.com/yee-o/yee-o/assets/147542828/284d8561-588d-4703-b771-993470936597">
   &nbsp;
-  <img alt="rust-lang" width="22" src="https://github.com/yee-o/yee-o/assets/147542828/60ecbdf1-c7a1-49eb-9b8b-d78f252890a9">
+  <img alt="rust-lang" width="20" src="https://github.com/yee-o/yee-o/assets/147542828/60ecbdf1-c7a1-49eb-9b8b-d78f252890a9">
 </h3>
 
 `connect the dots looking backward`
