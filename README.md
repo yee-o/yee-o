@@ -4,19 +4,19 @@
 <br>
 
 <h3>
-  <img width="20" alt="github" src="https://github.com/guten24/guten24/assets/155323198/8da59527-9bf2-4707-86a8-b4486c0fbac8">
+  <img width="20" alt="github" src="https://github.com/yee-o/yee-o/assets/147542828/ce94e13f-2081-489a-9e35-36a1f22938ab">
   <img width="21" alt="github" src="https://abs.twimg.com/hashflags/BF-9882_OKX_BrandedEmoji_2023/BF-9882_OKX_BrandedEmoji_2023.png">
   &nbsp;
   <img width="20" alt="github" src="https://em-content.zobj.net/source/google/387/snake_1f40d.png">
-  <img width="20" alt="github" src="https://github.com/guten24/guten24/assets/155323198/80fdd27b-412f-4bfa-8101-3f1e97653271">
+  <img width="20" alt="github" src="https://github.com/yee-o/yee-o/assets/147542828/284d8561-588d-4703-b771-993470936597">
   &nbsp;
-  <img width="20" alt="github" src="https://github.com/guten24/guten24/assets/155323198/ad2b824a-6a6e-45aa-a792-28289dfd669d">
+  <img alt="rust-lang" width="22" src="https://github.com/yee-o/yee-o/assets/147542828/60ecbdf1-c7a1-49eb-9b8b-d78f252890a9">
 </h3>
 
 `connect the dots looking backward`
 
-<img width="50" alt="github" src="https://github.com/guten24/guten24/assets/155323198/43dd3df1-20eb-4154-9f76-ece6846ce476">
+<img width="50" alt="github" src="https://github.com/yee-o/yee-o/assets/147542828/438ac90d-db5f-4629-b117-c54a6dbbd748">
 
 <br>
 
-<img width="50" alt="github" src="https://github.com/guten24/guten24/assets/155323198/ceea5cc8-2cf8-4c97-8680-815f46398c22">
+<img width="50" alt="github" src="https://github.com/yee-o/yee-o/assets/147542828/d2012562-4454-44eb-a29b-a7a1e8912314">
