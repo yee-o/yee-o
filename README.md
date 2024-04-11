@@ -26,4 +26,4 @@
 <img width="50" alt="github" src="https://github.com/yee-o/yee-o/assets/147542828/d2012562-4454-44eb-a29b-a7a1e8912314">
 
 <!-- Footnotes -->
-[^a]: ー 史提夫·喬布斯
+[^a]: ー s·j
