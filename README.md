@@ -17,13 +17,6 @@
   <img alt="rust-lang" width="20" src="https://github.com/yee-o/yee-o/assets/147542828/60ecbdf1-c7a1-49eb-9b8b-d78f252890a9">
 </h3>
 
-`connect the dots looking backward`[^a]
+`connect the dots looking backward`
 
 <img width="50" alt="github" src="https://github.com/yee-o/yee-o/assets/147542828/438ac90d-db5f-4629-b117-c54a6dbbd748">
-
-<br>
-
-<img width="50" alt="github" src="https://github.com/yee-o/yee-o/assets/147542828/d2012562-4454-44eb-a29b-a7a1e8912314">
-
-<!-- Footnotes -->
-[^a]: ー s·j
