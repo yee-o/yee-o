@@ -1,6 +1,6 @@
 [comment]: <█>
 
-███▒▒▒▒▒▒▒
+██████▒▒▒▒
 
 | ![Raichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png) | ![Dragonite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png) | ![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png) | ![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png) |
 | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
